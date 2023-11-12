@@ -1,0 +1,12 @@
+file_name	seed	formula_x	formula_y
+NA	NA	NA	NA
+2023-11-11-18-53_seed_9721.png	9721	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2023-11-11-18-53_seed_1003.png	1003	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2023-11-11-18-53_seed_8664.png	8664	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2023-11-11-18-53_seed_1161.png	1161	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2023-11-11-18-53_seed_9784.png	9784	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2023-11-11-18-54_seed_7620.png	7620	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2023-11-11-18-54_seed_7505.png	7505	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2023-11-11-18-54_seed_7489.png	7489	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2023-11-11-18-54_seed_3014.png	3014	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
+2023-11-11-18-55_seed_1376.png	1376	runif(1, -1, 10) * x_i^2 - sin(y_i^2)	runif(1, -1, 10) * y_i^3 - cos(x_i^2) * y_i^4
